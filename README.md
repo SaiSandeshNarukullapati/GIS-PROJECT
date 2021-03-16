@@ -13,6 +13,7 @@ To open the analysis maps(.html files), please click on the below links
 [Link to Toxic_Chemicals_open_street_view map](https://saisandeshnarukullapati.github.io/GIS-PROJECT/Toxic_Chemicals_open_street_view.html)
 [Link to Two_miles_buffer_map map](https://saisandeshnarukullapati.github.io/GIS-PROJECT/Two_miles_buffer_map.html)
 [Link to Air_monitoring_stations_map map](https://saisandeshnarukullapati.github.io/GIS-PROJECT/Air_monitoring_stations_map.html)
+[Link to Map_with_chemicalsReleasedAreas_AirMonitoringStations map](https://saisandeshnarukullapati.github.io/GIS-PROJECT/Map_with_chemicalsReleasedAreas_AirMonitoringStations.html)
 
 ```
 
@@ -22,5 +23,6 @@ To open the analysis maps(.html files), please click on the below links
  - [Link to Toxic_Chemicals_open_street_view map](https://saisandeshnarukullapati.github.io/GIS-PROJECT/Toxic_Chemicals_open_street_view.html)
  - [Link to Two_miles_buffer_map map](https://saisandeshnarukullapati.github.io/GIS-PROJECT/Two_miles_buffer_map.html)
  - [Link to Air_monitoring_stations_map map](https://saisandeshnarukullapati.github.io/GIS-PROJECT/Air_monitoring_stations_map.html)
+ - [Link to Map_with_chemicalsReleasedAreas_AirMonitoringStations map](https://saisandeshnarukullapati.github.io/GIS-PROJECT/Map_with_chemicalsReleasedAreas_AirMonitoringStations.html)
 
 
