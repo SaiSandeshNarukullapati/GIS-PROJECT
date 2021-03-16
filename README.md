@@ -1,11 +1,11 @@
  GIS-PROJECT
  
- maps file
-
+ 
+To open the maps, please click on the below links
 
 `SaiSandeshNarukullapati.github.io/GIS-PROJECT`
 
-Here is an example how to do it in MarkDown for user HTenkanen:
+
 
 ```
 [Link to Toxic_Chemicals_heatMap map](https://saisandeshnarukullapati.github.io/GIS-PROJECT/Toxic_Chemicals_heatMap.html)
