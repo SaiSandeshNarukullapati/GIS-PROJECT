@@ -1,7 +1,7 @@
  GIS-PROJECT
  
  
-To open the maps, please click on the below links
+To open the maps(.html files), please click on the below links
 
 `SaiSandeshNarukullapati.github.io/GIS-PROJECT`
 
