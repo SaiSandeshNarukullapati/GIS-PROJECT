@@ -1,7 +1,7 @@
 maps file
 
 
-
+`automating-gis-processes.github.io/exercise-5-MyGitHubUserName`
 
 Here is an example how to do it in MarkDown for user HTenkanen:
 
